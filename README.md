@@ -5,6 +5,9 @@ This paper presents a precise localization method for faulty idlers that integra
 
 ### Key Features
 - Belt Conveyor, Idler Fault, Multimodal Detection
+![web](https://github.com/user-attachments/assets/c7011eac-2a74-4b21-b89f-a814bf8aab2f)
+
+
 
 ### Requirements
 
