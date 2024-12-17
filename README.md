@@ -36,6 +36,7 @@ If you do not wish to train the weights from scratch, you can use the provided t
 - [Training Weights](https://pan.baidu.com/s/1GJlftVfbeqALWjDvtnLh3A?pwd=mdtr)
 
 Place the weights in the specified location in `test.sh` with the `--weights` flag.
+To obtain the training weight, please modify the relevant data set as required
 
 ## Usage
 
