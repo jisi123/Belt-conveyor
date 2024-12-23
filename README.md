@@ -17,7 +17,7 @@ This repository contains the code and instructions for an accurate fault locatio
 The dataset was collected from a self-built experimental platform. You can download the public dataset from the following links:
 
 - [Training and Testing Dataset](https://pan.baidu.com/s/1qMD511uPA6ULsuBPvvhOqQ?pwd=6v6q)
-- [Idler Fault Dataset for Training and Testing](https://pan.baidu.com/s/11zCxpBRsnf5P44pGaQUDEQ?pwd=t4tu)
+- [Idler Fault Dataset for Training and Testing](https://pan.baidu.com/s/1XCxI3THok2Kdne-t3o5OnA?pwd=22qt)
 
 Please download the dataset and place it in the `data` directory.
 
@@ -25,7 +25,7 @@ Please download the dataset and place it in the `data` directory.
 
 Pretrained backbones for ResNet50 (vision) and VGGish (audio) can be downloaded from:
 
-- [Pretrained Models](https://pan.baidu.com/s/1XCxI3THok2Kdne-t3o5OnA?pwd=22qt)
+- [Pretrained Models](https://pan.baidu.com/s/11zCxpBRsnf5P44pGaQUDEQ?pwd=t4tu)
 
 Place the downloaded models in the `pretrained` directory.
 
